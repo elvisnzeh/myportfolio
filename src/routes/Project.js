@@ -11,7 +11,7 @@ function Project() {
      <Navbar />
      <HeroImage2 heading="PROJECTS."text="some of my most recent works" />
      <Work/>
-     <PricingCard />
+     {/* <PricingCard /> */}
      <Footer />
     </div>
   )

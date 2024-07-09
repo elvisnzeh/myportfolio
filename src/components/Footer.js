@@ -14,8 +14,8 @@ const Footer = () => {
             
             <div className="social">
             <h4>About the company</h4>
-                        <p>This is elvis nzeh a frontend Developer <br></br>this is my portfolio</p>
-                <FaFacebook size={30} style={{ color: "white", marginRight: "1rem" }} />
+                        <p>Presenting Elvis Nzeh, a skilled Frontend Developer.<br></br>Explore my professional portfolio.</p>
+                {/* <FaFacebook size={30} style={{ color: "white", marginRight: "1rem" }} /> */}
                 <FaTwitter size={30} style={{ color: "white", marginRight: "1rem" }} />
                 <FaLinkedin size={30} style={{ color: "white", marginRight: "1rem" }} />
             </div>
@@ -24,8 +24,8 @@ const Footer = () => {
         <div className="left">
         <div className="email"></div>
         <h4><FaHome size={20} style={{ color: "white", marginRight: "2rem" }} />Home</h4>
-        <h4><FaMailBulk size={20} style={{ color: "white", marginRight: "2rem" }} />elvis@gmail.com</h4>
-        <h4><FaPhone size={20} style={{ color: "white", marginRight: "2rem" }} />+233 059 342 4117</h4>
+        <h4><FaMailBulk size={20} style={{ color: "white", marginRight: "2rem" }} />xhakadat5@gmail.com</h4>
+        <h4><FaPhone size={20} style={{ color: "white", marginRight: "2rem" }} />+233 59 342 4117</h4>
         
     </div>
         </div>
