@@ -2,7 +2,7 @@ import cake from "../assets/p6.jpeg"
 import pro2 from "../assets/p2.jpeg"
 import pro3 from "../assets/p3.jpg"
 import Notes from "../assets/port3.PNG"
-import tracker from "../assets/k5.PNG"
+import BOOK from "../assets/booki.JPG"
 import calc from "../assets/ppo.JPG"
 import weather1 from "../assets/port1.PNG"
 import pizza from "../assets/PIZ5.PNG"
@@ -45,10 +45,10 @@ const WorkCardData =[
 
 
     {
-        imgsrc:tracker,
-        title:"expense tracker ",
-        text: "Expense trackers can vary in complexity and features.",
-        view: "https://expnesetracker.vercel.app/",
+        imgsrc:BOOK,
+        title:"Book Site ",
+        text: "Built a comprehensive book site utilizing React.",
+        view: "https://book-site-zr4h.vercel.app/",
     },
 
 
