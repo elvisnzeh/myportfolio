@@ -1,7 +1,7 @@
 import cake from "../assets/p6.jpeg"
 import pro2 from "../assets/p2.jpeg"
 import pro3 from "../assets/p3.jpg"
-import Notes from "../assets/port3.PNG"
+import res from "../assets/res.JPG"
 import BOOK from "../assets/booki.JPG"
 import calc from "../assets/ppo.JPG"
 import weather1 from "../assets/port1.PNG"
@@ -20,7 +20,7 @@ const WorkCardData =[
         imgsrc:weather1,
         title:"Weather App",
         text: " A weather app is a software application designed to provide users with up-to-date information about the weather conditions",
-        view: "https://elviswheatherapp.netlify.app/",
+        view: "https://weather-app-jzr4.vercel.app/",
     },
 
     {
@@ -37,19 +37,19 @@ const WorkCardData =[
     },
 
     {
-        imgsrc:Notes,
-        title:"Todo List ",
-        text: " A todo app is a software application designed to help users create, organize, and manage digital notes.",
-        view: "https://mytodolist-theta-two.vercel.app/",
+        imgsrc:res,
+        title:" Responsive site",
+        text: " I designed this project using React for a dynamic user interface and Tailwind CSS for a sleek, responsive layout.",
+        view: "https://tailwindfirst.vercel.app/",
     },
 
 
-    {
-        imgsrc:BOOK,
-        title:"Book Site ",
-        text: "Built a comprehensive book site utilizing React.",
-        view: "https://book-site-zr4h.vercel.app/",
-    },
+    // {
+    //     imgsrc:BOOK,
+    //     title:"Book Site ",
+    //     text: "Built a comprehensive book site utilizing React.",
+    //     view: "https://book-site-zr4h.vercel.app/",
+    // },
 
 
 ]
